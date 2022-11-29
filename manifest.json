@@ -1,0 +1,14 @@
+{
+    "name": "Title of webiste",
+    "version": "1.0.0",
+    "description": "Shows title of current webiste",
+    "manifest_version": 3,
+    "author": "Nisha Rajput",
+    "permissions": [
+        "tabs"
+      ],
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Title of Website"
+    }
+}
